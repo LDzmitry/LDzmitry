@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LDzmitry
+- 👋 Hi, I’m Dmitry
 - 👀 I’m interested in SQL, Java, automatically testing, medicine
-- 🌱 I’m currently learning SQL, Java, automatically testing/
+- 🌱 I’m currently learning SQL, Java, automatically testing
 - 📫 You can email me lyakhda@yandex.ru
 
 <!---
